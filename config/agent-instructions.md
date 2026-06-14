@@ -22,9 +22,12 @@
    - メリット・デメリット
    - 科学的な裏付け（あれば）
 
-3. **レポート作成**：以下のフォーマットでMarkdownファイルを作成する
-   - 保存先：`d:\Projects\Study\res-farming\reports\`
-   - ファイル名：`YYYY-MM-DD_daily-report.md`
+3. **レポート作成**：以下のフォーマットでMarkdownファイルをGitHubに保存する
+   - GitHubリポジトリ：`AAA2025/res-farming`
+   - ブランチ：`master`
+   - 保存パス：`reports/YYYY-MM-DD_daily-report.md`
+   - 保存方法：GitHub MCP の `push_files` または `create_or_update_file` を使ってファイルを作成・更新する
+   - コミットメッセージ例：`add: YYYY-MM-DD 日次レポート`
 
 ## レポートのフォーマット
 
